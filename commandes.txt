@@ -1,0 +1,2 @@
+composer require doctrine/annotations
+vendor/bin/doctrine orm:schema-tool:create
